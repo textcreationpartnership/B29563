@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sea man's farewel to his mistress, and her answer unto him. To its own proper tune.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29563</idno><idno type="EEBO-CITATION">99888269</idno>
+  <idno type="VID">201073</idno>
+  <idno type="EEBO-PROQUEST">2248541230</idno>
+  
+            <idno type="STC">Wing S2188A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[96]</idno>
+            <idno type="STC">ESTC R229244</idno>
+            <idno type="PROQUEST">ocm99888269</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888269e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201073)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[98])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sea man's farewel to his mistress, and her answer unto him. To its own proper tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Two columns of text, initial.</note>
+                  <note>First line: "As I went earlie in the Spring."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Love --  England --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:201073:1"/>
+            <head>The Sea Man's Farewel to his Mistress, and her An<g ref="char:EOLhyphen"/>swer unto him.</head>
+            <opener>To its own proper Tune.</opener>
+            <lg>
+               <l>AS I wedt earlie in the Spring,</l>
+               <l>Aboard a Ship to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve our King,</l>
+               <l>
+                  <hi>I</hi> left my dearest dear behind,</l>
+               <l>Who said for e'er her Heart was mine,</l>
+               <l>Her love appeared true to me,</l>
+               <l>And she aboard did go with me,</l>
+               <l>She went with me to the <hi>Boyo'th Nore,</hi>
+               </l>
+               <l>And then returned back to shore,</l>
+               <l>Oft did I hug her in my Arms,</l>
+               <l>I thought she had Ten Thousand Charms,</l>
+               <l>Our Vows we bound with Kisses sweet,</l>
+               <l>And manie a night time we did weep.</l>
+               <l>A Golden Chain I did present,</l>
+               <l>She seemed verie well content,</l>
+               <l>These Sighs and Sobs did break mine Heart</l>
+               <l>To think my Love and I should part,</l>
+               <l>As I was sailing on the Sea,</l>
+               <l>I took an Opportunitie,</l>
+               <l>To write a Letter to my Dear!</l>
+               <l>But word from her could I never hear,</l>
+               <l>As we were Bombing of a Town,</l>
+               <l>Where Cannon Balls flew up and down,</l>
+               <l>In midst of all these dangers there,</l>
+               <l>My Heart remain'd still on my Dear,</l>
+               <l>But now I am returned home,</l>
+               <l>And here my Love to wait upon.</l>
+               <l>Who liv'd in <hi>Wapping</hi> now of late,</l>
+               <l>Though it's proven unfortunate,</l>
+               <l>When I unto her Father came</l>
+               <l>I call'd for my Love by her Name,</l>
+               <l>Her Father Churlishlie did say,</l>
+               <l>Sir, all your Love she doth defy,</l>
+               <l>Kind Sir, said I, what's mean'd by this,</l>
+               <l>To tell you true she wedded i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>On a rich Old Man for all her Life,</l>
+               <l>Sir, you may look for another wife,</l>
+               <l>A curse on all false loves said I,</l>
+               <l>A curse on all such perjurie,</l>
+               <l>A curse upon them that do make</l>
+               <l>A vow and break't for riches sake</l>
+               <l>A curse on Gold and Silver too,</l>
+               <l>A curse upon that miser too,</l>
+               <l>VVho caused his Daughter change her Minde</l>
+               <l>But VVomans words are like the wind,</l>
+               <l>Adieu the comforts of my Life,</l>
+               <l>Adieu the pleasures of a VVife.</l>
+               <l>
+                  <hi>I</hi>'d rather be where Bullets flie</l>
+               <l>Than in such VVomens Companie,</l>
+               <l>I'll range the Seas untill I die,</l>
+               <l>VVhere VVaves do toss like Mountains high</l>
+               <l>Adieu all false Hearts now a shore,</l>
+               <l>For <hi>I</hi> will ne're see <hi>England</hi> more.</l>
+            </lg>
+            <div type="part">
+               <head>Her Reply.</head>
+               <lg>
+                  <l>IN everie street I heard them sing,</l>
+                  <l>My loves complaint that serv'd the King</l>
+                  <l>
+                     <hi>I</hi> went with him to the <hi>Boyoth Nore</hi>
+                  </l>
+                  <l>And would have gone all the world o're,</l>
+                  <l>A Golden chain I had of him,</l>
+                  <l>VVhich freelie I'le return again,</l>
+                  <l>As for these Kisses when we did part</l>
+                  <l>VVas from the bottom of my Heart,</l>
+                  <l>As for the Letter you sent me,</l>
+                  <l>I here declare I ne'er did see.</l>
+                  <l>But my Father bade me be at rest,</l>
+                  <l>For thy true Love was slain at <hi>Brest,</hi>
+                  </l>
+                  <l>And he perswaded me to wed,</l>
+                  <l>A rich Old Man who's almost dead,</l>
+                  <l>And now <hi>I</hi>'m Married and a VVife,</l>
+                  <l>VVould I had liv'd single all my Life,</l>
+                  <l>Now as for Gold and Silver too:</l>
+                  <l>I freelie curse as well as you.</l>
+                  <l>Had't not been that had caus'd the strife</l>
+                  <l>You and <hi>I</hi> had been Man and VVife,</l>
+                  <l>Therefore <hi>I</hi> pray return my Dear,</l>
+                  <l>For there are manie VVomen here,</l>
+                  <l>That are more beautiful than I,</l>
+                  <l>
+                     <hi>I</hi> pray thee look where beautie lie</l>
+                  <l>'T will be the comfort of my Life,</l>
+                  <l>To see thee have a loving VVife.</l>
+                  <l>Once did <hi>I</hi> love a Seaman brave,</l>
+                  <l>And was in hopes him for to have</l>
+                  <l>But now I'm Married and a VVife▪</l>
+                  <l>VVould <hi>I</hi> liv'd single all my Life.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
